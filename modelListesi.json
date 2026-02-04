@@ -1,0 +1,33 @@
+{
+    "Toyota": [
+        "Corolla",
+        "Yaris"
+    ],
+    "Honda": [
+        "Civic",
+        "HR-V"
+    ],
+    "Ford": [
+        "Focus",
+        "Fiesta"
+    ],
+    "BMW": [
+        "320i",
+        "X1"
+    ],
+    "Mercedes": [
+        "C200",
+        "A180"
+    ],
+    "Renault": [
+        "Megane",
+        "Clio"
+    ],
+    "Audi": [
+        "A6",
+        "A3"
+    ],
+    "Fiat": [
+        "500L"
+    ]
+}
