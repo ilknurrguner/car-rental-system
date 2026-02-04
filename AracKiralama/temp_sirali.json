@@ -1,0 +1,242 @@
+[
+    {
+        "plaka": "81KLM001",
+        "marka": "Audi",
+        "model": "A3",
+        "durum": "Kirada",
+        "ucret": 2500,
+        "kiralayan": "Elif Yıldırım",
+        "baslangic_tarihi": "19-12-2025",
+        "bitis_tarihi": "12-01-2026"
+    },
+    {
+        "plaka": "01MNO654",
+        "marka": "Mercedes",
+        "model": "C200",
+        "durum": "Bakımda",
+        "ucret": 2200,
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "01A18045",
+        "marka": "Mercedes",
+        "model": "A180",
+        "durum": "Bakımda",
+        "ucret": "2000",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "16X1A112",
+        "marka": "BMW",
+        "model": "X1",
+        "durum": "Kirada",
+        "ucret": "1600",
+        "kiralayan": "Murat Aksoy",
+        "baslangic_tarihi": "12-12-2025",
+        "bitis_tarihi": "18-12-2025"
+    },
+    {
+        "plaka": "45RST369",
+        "marka": "Nissan",
+        "model": "Qashqai",
+        "durum": "Müsait",
+        "ucret": 1200,
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "19ULG304",
+        "marka": "Subaru",
+        "model": "Impreza",
+        "durum": "Müsait",
+        "ucret": 1150,
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "34BY4567",
+        "marka": "Honda",
+        "model": "Civic",
+        "durum": "Müsait",
+        "ucret": 1100,
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "06HRV654",
+        "marka": "Honda",
+        "model": "HR-V",
+        "durum": "Müsait",
+        "ucret": "1100",
+        "kiralayan": "Zeynep Koç",
+        "baslangic_tarihi": "05-12-2025",
+        "bitis_tarihi": "08-12-2025"
+    },
+    {
+        "plaka": "26GHI741",
+        "marka": "Skoda",
+        "model": "Octavia",
+        "durum": "Müsait",
+        "ucret": 1000,
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "54AKS441",
+        "marka": "Mazda",
+        "model": "3",
+        "durum": "Kirada",
+        "ucret": 980,
+        "kiralayan": "Burak Şahin",
+        "baslangic_tarihi": "26-12-2025",
+        "bitis_tarihi": "02-01-2026"
+    },
+    {
+        "plaka": "34ABC321",
+        "marka": "Volkswagen",
+        "model": "Golf",
+        "durum": "Müsait",
+        "ucret": 950,
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "07DEF852",
+        "marka": "Hyundai",
+        "model": "Elantra",
+        "durum": "Kirada",
+        "ucret": 900,
+        "kiralayan": "Can Erdem",
+        "baslangic_tarihi": "22-12-2025",
+        "bitis_tarihi": "28-12-2025"
+    },
+    {
+        "plaka": "72ZMN556",
+        "marka": "Mitsubishi",
+        "model": "Lancer",
+        "durum": "Kirada",
+        "ucret": 900,
+        "kiralayan": "Deniz Acar",
+        "baslangic_tarihi": "20-12-2025",
+        "bitis_tarihi": "27-12-2025"
+    },
+    {
+        "plaka": "34COR123",
+        "marka": "Toyota",
+        "model": "Corolla",
+        "durum": "Kirada",
+        "ucret": 880,
+        "kiralayan": "Mete Kurt",
+        "baslangic_tarihi": "19-12-2025",
+        "bitis_tarihi": "22-12-2025"
+    },
+    {
+        "plaka": "20MNP147",
+        "marka": "Citroen",
+        "model": "C4",
+        "durum": "Kirada",
+        "ucret": 850,
+        "kiralayan": "Selin Arslan",
+        "baslangic_tarihi": "18-12-2025",
+        "bitis_tarihi": "23-12-2025"
+    },
+    {
+        "plaka": "23TRB908",
+        "marka": "Seat",
+        "model": "Leon",
+        "durum": "Müsait",
+        "ucret": 820,
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "09JKL963",
+        "marka": "Peugeot",
+        "model": "208",
+        "durum": "Bakımda",
+        "ucret": 750,
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "41PRS987",
+        "marka": "Renault",
+        "model": "Megane",
+        "durum": "Kirada",
+        "ucret": 700,
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "34YRS987",
+        "marka": "Toyota",
+        "model": "Yaris",
+        "durum": "Müsait",
+        "ucret": "700",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "38KYS712",
+        "marka": "Chevrolet",
+        "model": "Cruze",
+        "durum": "Bakımda",
+        "ucret": 700,
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "35FST321",
+        "marka": "Ford",
+        "model": "Fiesta",
+        "durum": "Müsait",
+        "ucret": "650",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "35CLIO35",
+        "marka": "Renault",
+        "model": "Clio",
+        "durum": "Kirada",
+        "ucret": 620,
+        "kiralayan": "Okan Demir",
+        "baslangic_tarihi": "24-12-2025",
+        "bitis_tarihi": "29-12-2025"
+    },
+    {
+        "plaka": "35KLM789",
+        "marka": "Ford",
+        "model": "Focus",
+        "durum": "Kirada",
+        "ucret": 600,
+        "kiralayan": "mete sayar",
+        "baslangic_tarihi": "19-12-2025",
+        "bitis_tarihi": "24-12-2025"
+    },
+    {
+        "plaka": "41CL1598",
+        "marka": "Renault",
+        "model": "Clio",
+        "durum": "Müsait",
+        "ucret": "600",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    }
+]
